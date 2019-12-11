@@ -1,0 +1,16 @@
+{
+    "name": "misfist/advanced-custom-fields",
+    "description": "Advanced Custom Fields plugin for WordPress.",
+    "type": "wordpress-plugin",
+    "require-dev": {
+        "phpunit/phpunit": "^5.4"
+    },
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "Pea",
+            "email": "pea@misfist.com"
+        }
+    ],
+    "require": {}
+}
